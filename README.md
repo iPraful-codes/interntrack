@@ -8,6 +8,8 @@ A full-stack job application tracker. Log every application, move it through a p
 
 I built it while searching for my first engineering internship, so it solves a problem I actually have.
 
+**Live demo:** https://interntrack-i52s.onrender.com
+
 ![InternTrack screenshot](docs/screenshot.png)
 
 ## Features
